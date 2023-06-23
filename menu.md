@@ -35,6 +35,8 @@
 
 ## Napoje
 
+<img src = "imgpizzeriacdv/drinks.avif" width =300>
+
 |Lp.| Pizza:                                         |pojemność: | 330 ml | 500 ml |
 |---|----------------------------------------------------------|-|--------|--------|
 |1. |WODA                                                      | |  5 pln | 6 pln  |
