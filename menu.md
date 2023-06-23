@@ -15,7 +15,7 @@
 
 ## Makarony
 
-<img src = "pasta.avif" width =300>
+<img src = "imgpizzeriacdv/pasta.avif" width =300>
 
 |Lp.| Pizza:                                            |porcja: | 500 g  | 650 g  |
 |---|----------------------------------------------------------|-|--------|--------|
@@ -25,7 +25,7 @@
 
 ## Sosy
 
-<img src = "imgpizzeriacdv/photo-1565299624946-b28f40a0ae38.avif" width =300>
+<img src = "imgpizzeriacdv/sauces.avif" width =300>
 
 |Lp.| Sosy:       | | 50 ml |
 |---|-------------|-|-------|
