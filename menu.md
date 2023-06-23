@@ -35,6 +35,22 @@
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)             | | 23 pln | 28 pln |
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)           | | 20 pln | 25 pln |
 
+## Sałatki
+|Lp.| Sałatka:                                         | porcja: |        |
+|---|----------------------------------------------------------|-|--------|
+|1. |LIŚCIE (jak nazwa wskazuje)                               | | 15 pln | 
+|2. |CESAR (sałata, oliwa z oliwek, pomidor)                   | | 20 pln |
+|3. |GRECKA  (sałata, oliwa z oliwek, pomidor, feta)           | | 25 pln | 
+
+<img src = "imgpizzeriacdv/photo-1565299624946-b28f40a0ae38.avif" width =300>
+
+|Lp.| Pizza:                                            |porcja: | 500 g  | 650 g  |
+|---|----------------------------------------------------------|-|--------|--------|
+|1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)    | | 20 pln | 25 pln |
+|2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)             | | 23 pln | 28 pln |
+|3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)           | | 20 pln | 25 pln |
+
+
 ## Sosy
 
 <img src = "imgpizzeriacdv/photo-1565299624946-b28f40a0ae38.avif" width =300>
