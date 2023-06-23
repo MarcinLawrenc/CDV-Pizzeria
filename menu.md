@@ -25,7 +25,7 @@
 
 ## Sosy
 
-<img src = "imgpizzeriacdv/sauces.avif" width =300>
+<img src = "imgpizzeriacdv/sauce.avif" width =300>
 
 |Lp.| Sosy:       | | 50 ml |
 |---|-------------|-|-------|
