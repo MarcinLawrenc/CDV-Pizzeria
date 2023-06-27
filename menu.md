@@ -35,6 +35,8 @@
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)             | | 23 pln | 28 pln |
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)           | | 20 pln | 25 pln |
 
+<img src = "imgpizzeriacdv/salads.avif" width =300>
+
 ## Sałatki
 |Lp.| Sałatka:                                         | porcja: |        |
 |---|----------------------------------------------------------|-|--------|
