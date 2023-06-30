@@ -1,7 +1,9 @@
 # Przepisy
-<img src = "imgpizzeriacdv/pizzadough.avif" width =300>
 
 ## Ciasto na pizzę
+
+<img src = "imgpizzeriacdv/pizzadough.avif" width =300>
+
 ## Składniki
 |Lp.| Składniki na ciasto:                                     | Ilość  | Jednostka |
 |---|----------------------------------------------------------|--------|-----------|
