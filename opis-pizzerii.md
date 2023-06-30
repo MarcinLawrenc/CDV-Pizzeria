@@ -1,3 +1,3 @@
 # Pizzeria 
 
-Opis
+Najlepsza pizzeria na świecie.
